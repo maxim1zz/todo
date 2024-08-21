@@ -1,2 +1,2 @@
-1. Go to work - completed
-2. Start macbook -completed
+1. Start macbook -completed
+2. Go home - completed
